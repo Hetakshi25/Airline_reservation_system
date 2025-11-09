@@ -141,7 +141,7 @@ $result=mysqli_query($conn,$query);*/
 		<title>	payment</title>
 		
 	</head>
-	<body style="background:url(background.jpg);
+	<body style="background:url('img1/background.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>
@@ -251,7 +251,7 @@ $result=mysqli_query($conn,$query);*/
 					<img src="viza.png" name="1"  alt="" >
 					<img src="amex.png"  alt="" >
 					<!--<img src="discover.jpeg"  alt="" >-->
-					<img src="master.png"  alt="" >
+					<img src="img1/master.png"  alt="" >
 					</td>
 				
 				</tr>

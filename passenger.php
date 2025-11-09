@@ -60,7 +60,7 @@ if(isset($_GET['error'])) {
 		<title>	Pessanger </title>
 		
 	</head>
-	<body style="background:url(background.jpg);
+	<body style="background:url('img1/background.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>

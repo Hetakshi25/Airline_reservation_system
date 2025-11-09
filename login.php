@@ -42,7 +42,7 @@ if(isset($_POST['submit']))
 	<head>
 		<title>	Login Here </title>
 	</head>
-	<body style="background:url(flight5.jpeg);
+	<body style="background:url('img1/flight5.jpeg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>

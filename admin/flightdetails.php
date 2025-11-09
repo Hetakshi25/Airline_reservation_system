@@ -56,7 +56,7 @@ if(isset($_POST['submit']))
 		<title>	Add Flights</title>
 		
 	</head>
-	<body style="background:url(flight2.jpg);
+	<body style="background:url('img1/flight4.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>

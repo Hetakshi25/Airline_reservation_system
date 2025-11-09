@@ -13,7 +13,7 @@ $result=mysqli_query($conn,$query);
 		<title>	Review </title>
 		
 	</head>
-	<body style="background:url(flight4.jpg);
+	<body style="background:url('img1/flight4.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>

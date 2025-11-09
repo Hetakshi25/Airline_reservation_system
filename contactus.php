@@ -10,7 +10,7 @@ include ('header.php');
 		<title> Contact Us </title>
 	<link rel="stylesheet" href="homecss.css">
 	</head>
-	<body style="background:url(background.jpg);
+	<body style="background:url('img1/background.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>

@@ -13,7 +13,7 @@ $result=mysqli_query($conn,$query);
 		<title>	view booked flights </title>
 		
 	</head>
-	<body style="background:url(flight4.jpg);
+	<body style="background:url('img/flight4.jpg');
 				background-repeat:no-repeat;
 				background-size:100% 100%">
 			</style>
